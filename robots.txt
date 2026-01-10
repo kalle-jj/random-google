@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://rocket-goal.github.io/sitemap.xml
